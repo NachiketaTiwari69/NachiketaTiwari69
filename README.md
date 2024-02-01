@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nachiketa Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D16AQEJGDTEB-6isg/profile-displaybackgroundimage-shrink_350_1400/0/1692536195728?e=1712188800&v=beta&t=2Vf0eNf-kVMzyCVIQnHWNrneN9IOUpl_lk4wOpFW7tE">
+<img align="center" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D16AQEJGDTEB-6isg/profile-displaybackgroundimage-shrink_350_1400/0/1692536195728?e=1712188800&v=beta&t=2Vf0eNf-kVMzyCVIQnHWNrneN9IOUpl_lk4wOpFW7tE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nachiketatiwari69&label=Profile%20views&color=0e75b6&style=flat" alt="nachiketatiwari69" /> </p>
 
